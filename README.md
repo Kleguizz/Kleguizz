@@ -29,10 +29,10 @@ I am a passionate full-stack developer with experience in individual and team pr
 <a href="https://github.com/Kleguizz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Yuki_Hime_Shira" target="_blank">
+<a href="https://twitter.com" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/indra.niko.714" target="_blank">
+<a href="https://www.facebook.com" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.linkedin.com/feed/" target="_blank">
